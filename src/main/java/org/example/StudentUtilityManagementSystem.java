@@ -7,7 +7,7 @@ public class StudentUtilityManagementSystem {
     // UPDATE THESE CREDENTIALS BASED ON YOUR LOCAL MYSQL SETUP
     private static final String URL = "jdbc:mysql://localhost:3306/student_utility_db";
     private static final String USER = "root";
-    private static final String PASSWORD = "Arya@20224";
+    private static final String PASSWORD = "";
 
     public static void main(String[] args) {
         // Test database connection on startup
